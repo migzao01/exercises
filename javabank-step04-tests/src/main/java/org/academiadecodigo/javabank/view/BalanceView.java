@@ -16,6 +16,10 @@ public class BalanceView implements View {
 
     private BalanceController balanceController;
     private DecimalFormat df = new DecimalFormat("#.##");
+<<<<<<< HEAD:javabank-step04-tests/src/main/java/org/academiadecodigo/javabank/view/BalanceView.java
+=======
+    private BalanceController balanceController;
+>>>>>>> 69150fb61a43f336f74470b81d96401b958ad964:src/org/academiadecodigo/javabank/view/BalanceView.java
 
     /**
      * Sets the controller responsible for rendering the view
